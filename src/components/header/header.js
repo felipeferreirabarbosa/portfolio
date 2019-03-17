@@ -5,9 +5,11 @@ import { Navbar, NavItem, Row} from 'react-materialize';
 
 const Header = () => (
   <Row>
-    <Navbar className="grey darken-2">
-      <NavItem href='/'>Home</NavItem>
-      <NavItem href='/contact'>Contact</NavItem>
+    <Navbar className="blue-grey darken-4">
+      <NavItem href='/'>Início</NavItem>
+      <NavItem href='/projects'>Projetos</NavItem>
+      <NavItem href='/social_media'>Redes Socias</NavItem>
+      <NavItem href='/curriculo'>Currículo</NavItem>
     </Navbar>
   </Row>
 );
