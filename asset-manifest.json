@@ -1,14 +1,15 @@
 {
   "main.css": "/portfolio/static/css/main.2c3aeb41.chunk.css",
-  "main.js": "/portfolio/static/js/main.f2a90870.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.f2a90870.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.aa4d86f5.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.aa4d86f5.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
-  "static/js/2.550fa04b.chunk.js": "/portfolio/static/js/2.550fa04b.chunk.js",
-  "static/js/2.550fa04b.chunk.js.map": "/portfolio/static/js/2.550fa04b.chunk.js.map",
+  "static/js/2.2764818f.chunk.js": "/portfolio/static/js/2.2764818f.chunk.js",
+  "static/js/2.2764818f.chunk.js.map": "/portfolio/static/js/2.2764818f.chunk.js.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.7a2bed39a41e0f6f9e8b1f9773fd4920.js": "/portfolio/precache-manifest.7a2bed39a41e0f6f9e8b1f9773fd4920.js",
+  "precache-manifest.b0e975a659e06b95564b814e245ecc63.js": "/portfolio/precache-manifest.b0e975a659e06b95564b814e245ecc63.js",
   "service-worker.js": "/portfolio/service-worker.js",
   "static/css/main.2c3aeb41.chunk.css.map": "/portfolio/static/css/main.2c3aeb41.chunk.css.map",
-  "static/media/Curriculim_Vitae_Felipe_Ferreira_Barbosa.pdf": "/portfolio/static/media/Curriculim_Vitae_Felipe_Ferreira_Barbosa.8395c67e.pdf"
+  "static/media/Curriculim_Vitae_Felipe_Ferreira_Barbosa.pdf": "/portfolio/static/media/Curriculim_Vitae_Felipe_Ferreira_Barbosa.8395c67e.pdf",
+  "static/media/foto_perfil.jpg": "/portfolio/static/media/foto_perfil.4d090621.jpg"
 }
