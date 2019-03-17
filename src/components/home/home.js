@@ -2,8 +2,9 @@
 import React from "react";
 // Importando os components necessários da lib react-materialize
 import { Row, Col, Card } from 'react-materialize';
-
+import esig_avatar from '../../images/esiglogo.png';
 import UserProfile from "../user_profile/user_profile"
+import Experience from "../experience/experience"
 import pdf_curriculo from '../artigos/Curriculim_Vitae_Felipe_Ferreira_Barbosa.pdf'
 const Home = () => (
   <Row>
@@ -30,8 +31,11 @@ const Home = () => (
           </div>
         </Card>
         <h5 className="subtitle">Experiencias / Experiences</h5>
-        {/* <Experience />
-        <Experience /> */}
+        <Experience title="Desenvolvedor Java"
+                  company="ESIG Software"
+                  description="Suporte aos sistemas 'Sigs', mais especificamente o SigEduc."
+                  avatar={esig_avatar}
+          />
     </Col>
   </Row>
 );
